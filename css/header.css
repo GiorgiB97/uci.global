@@ -1,0 +1,26 @@
+.header{
+    background: transparent;
+    border: transparent;
+    margin-bottom: 0;
+}
+
+.header .navbar-brand{
+    padding:10px 15px;
+    height:110px;
+}
+
+@media (min-width: 991px) {
+    .header .navbar-collapse li a{
+        line-height: 80px;
+    }
+}
+
+@media (max-width: 768px) {
+    .header .navbar-brand{
+        padding:0 15px;
+        height:60px;
+    }
+    .header .navbar-brand img{
+        height:60px;
+    }
+}
