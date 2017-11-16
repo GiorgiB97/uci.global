@@ -1,0 +1,31 @@
+.invest-main{
+    padding:75px 0 65px 0;
+}
+.invest-main .header{
+    font-size: 22px;
+    line-height: 24px;
+    font-weight: bold;
+    color: #35459c;
+}
+.invest-main .header .card-splitter{
+    background-color: #efc354;
+    width:27px;
+    height:2px;
+    margin:5px auto 20px 0;
+    border-top:0;
+}
+.invest-main .body p{
+    font-size: 18px;
+    line-height: 20px;
+}
+.invest-main .body ul{
+    padding-left:15px;
+}
+.invest-main .body ul li{
+    margin-bottom: 8px;
+}
+.invest-main .body ul li span{
+    color: #35459c;
+    font-size: 18px;
+    line-height: 20px;
+}

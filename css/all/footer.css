@@ -10,9 +10,10 @@
 }
 .footer .header .card-splitter{
     background-color: #efc354;
-    width:10%;
-    height:1px;
+    width:27px;
+    height:2px;
     margin:2px auto 10px 0;
+    border-top:0;
 }
 .footer .body .list{
     list-style-type: none;
