@@ -22,6 +22,7 @@ body {
     background-color: #ffffff;
     background: url("../img/bg.png") no-repeat;
     background-attachment: fixed;
+    background-size: cover;
 }
 
 body b {
@@ -29,11 +30,12 @@ body b {
 }
 
 a {
+    color: #35459c;
     text-decoration: none !important;
 }
 
 a:hover {
-    color: #719fd8;
+    color: #efc354;
 }
 
 .section {
@@ -46,7 +48,6 @@ a:hover {
     padding: 13px 10px;
     border: 1px solid transparent;
     background-color: #637FA0;
-    font-family: Roboto, serif;
     color: #FFFFFF;
     font-size: 18px;
     line-height: 24px;
@@ -64,40 +65,32 @@ a:hover {
     height: 50px;
     border-radius: 3px;
     padding: 13px 10px;
-    border: 1px solid #637FA0;
+    border: 1px solid #efc354;
     background-color: transparent;
-    font-family: Roboto, serif;
-    color: #637FA0;
+    color: #efc354;
     font-size: 18px;
     line-height: 24px;
     text-align: center;
 }
 
 .btn-brand-transparent:hover, .btn-brand-transparent:focus, .btn-brand-transparent:active {
-    border: 1px solid #637FA0 !important;
+    border: 1px solid #efc354 !important;
     background-color: rgba(100, 127, 160, 0.1) !important;
-    color: #4a5f78;
+    color: #efc354;
     box-shadow: inset 3px 3px 1px 1px rgba(0, 0, 0, 0.1);
 }
 
-.btn-brand-transparent-invert {
-    height: 50px;
-    border-radius: 3px;
-    padding: 13px 10px;
-    border: 1px solid #637FA0;
-    background-color: transparent;
-    font-family: Roboto, serif;
-    color: #FFFFFF;
-    font-size: 18px;
-    line-height: 24px;
-    text-align: center;
+.text-brand-primary{
+    color:#35459c;
 }
-
-.btn-brand-transparent-invert:hover, .btn-brand-transparent-invert:focus, .btn-brand-transparent-invert:active {
-    border: 1px solid #637FA0 !important;
-    background-color: rgba(100, 127, 160, 0.1) !important;
-    color: #e2e2e2;
-    box-shadow: inset 3px 3px 1px 1px rgba(0, 0, 0, 0.1);
+.text-brand-secondary{
+    color:#efc354;
+}
+.bg-brand-primary{
+    background-color: #35459c;
+}
+.bg-brand-secondary{
+    background-color: #efc354;
 }
 
 .video-responsive {

@@ -1,0 +1,45 @@
+.footer{
+    background-color: #f3f3f3;
+    padding: 75px 0 40px 0;
+}
+.footer .header{
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: bold;
+    color: #35459c;
+}
+.footer .header .card-splitter{
+    background-color: #efc354;
+    width:10%;
+    height:1px;
+    margin:2px auto 10px 0;
+}
+.footer .body .list{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+}
+.footer .body .list .brand-name{
+    margin:10px 0;
+}
+.footer .form input{
+    padding:10px 15px;
+    background-color: #e2e2e2;
+    border-radius: 10px;
+    border:transparent;
+    margin-bottom: 5px;
+    width: 100%;
+}
+.footer .form textarea{
+    padding:10px 15px;
+    background-color: #e2e2e2;
+    border-radius: 10px;
+    border:transparent;
+    margin-bottom: 5px;
+    width: 100%;
+}
+.footer .form button{
+    min-width: 130px;
+    max-height: 40px;
+    padding:7.5px;
+}

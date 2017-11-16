@@ -1,0 +1,28 @@
+.about {
+    padding: 75px 0;
+}
+
+.about .about-header {
+    font-weight: bold;
+    text-align: right;
+    text-shadow: 1px 1px 1px rgba(0,0,255,0.2);
+}
+
+@media (max-width: 768px) {
+    .about .about-header {
+        text-align: center;
+    }
+}
+
+.about .about-list {
+    margin-bottom: 0;
+}
+
+.about .about-list li {
+    margin-bottom: 8px;
+}
+
+.about .about-list li span {
+    color: #35459c;
+    font-weight: 100;
+}

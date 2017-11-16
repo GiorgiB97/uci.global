@@ -9,6 +9,19 @@
     height:110px;
 }
 
+.header .navbar-collapse li a{
+    font-size:16px;
+}
+
+.header .navbar-collapse li a:hover{
+    background-color: transparent;
+    color: #efc354;
+}
+.header .navbar-collapse li.active a{
+    background-color: transparent;
+    color: #efc354;
+}
+
 @media (min-width: 991px) {
     .header .navbar-collapse li a{
         line-height: 80px;
