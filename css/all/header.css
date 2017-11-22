@@ -8,6 +8,13 @@
     padding:10px 15px;
     height:110px;
 }
+.header .navbar-toggle{
+    background-color: #35459c;
+}
+
+.header .navbar-toggle span{
+    background-color: #efc354;
+}
 
 .header .navbar-collapse li a{
     font-size:16px;
