@@ -42,10 +42,16 @@
     .text-center-m{
         text-align: center;
     }
+    .text-right-m{
+        text-align: right;
+    }
 }
 @media (min-width: 768px) {
     .text-center-d{
         text-align: center;
+    }
+    .text-right-d{
+        text-align: right;
     }
 }
 

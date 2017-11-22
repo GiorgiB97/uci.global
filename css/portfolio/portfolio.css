@@ -1,0 +1,65 @@
+.portfolio-intro{
+    background-color: rgba(53, 69, 156, 0.8);
+    padding:61px 0;
+}
+.portfolio-intro h1{
+    margin: 0;
+}
+
+
+.portfolio-main .card{
+    background-color: white;
+    padding:20px;
+    border-radius:20px;
+    height:400px;
+    margin-bottom: 30px;
+}
+.portfolio-main .card .header{
+    height:150px;
+    font-size: 22px;
+    line-height: 24px;
+    font-weight: bold;
+    color: #35459c;
+}
+.portfolio-main .card .header img{
+    height:50px;
+}
+
+.portfolio-main .header .card-splitter{
+    background-color: #efc354;
+    width:27px;
+    height:2px;
+    margin:5px auto 20px 0;
+    border-top:0;
+}
+.portfolio-main .body p{
+    font-size: 18px;
+    line-height: 20px;
+}
+.portfolio-main .body ul{
+    padding-left:15px;
+}
+.portfolio-main .body ul li{
+    margin-bottom: 8px;
+}
+.portfolio-main .body ul li span{
+    color: #35459c;
+    font-size: 18px;
+    line-height: 20px;
+}
+.portfolio-main .read-more{
+    position: absolute;
+    right:50px;
+    bottom:70px;
+}
+
+.ico-list-item{
+    border-radius: 15px;
+    background-color: rgba(222, 222, 222, 0.65);
+    padding:15px 10px;
+}
+@media (min-width: 768px) {
+    .ico-list-item .head {
+        border-right:3px solid #efc354;
+    }
+}
