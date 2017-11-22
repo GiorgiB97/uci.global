@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b68678d1-f738-46d5-95e8-ccb1476e4ab5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/shareholders/shareholders.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shareholders.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/index/index-about.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/index/index-intro.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/index/index-invest.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/invest/invest-intro.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/invest/invest-main.css" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index/index.css" afterPath="$PROJECT_DIR$/css/index/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/invest/invest.css" afterPath="$PROJECT_DIR$/css/invest/invest.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/invest.html" afterPath="$PROJECT_DIR$/invest.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -26,16 +17,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="invest.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="invest.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/invest.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+            <state relative-caret-position="35">
+              <caret line="98" column="28" lean-forward="false" selection-start-line="98" selection-start-column="28" selection-end-line="98" selection-end-column="28" />
               <folding>
-                <element signature="e#5737#5743#0" expanded="true" />
-                <element signature="e#5900#5906#0" expanded="true" />
-                <element signature="e#6059#6065#0" expanded="true" />
+                <element signature="e#9184#9190#0" expanded="true" />
+                <element signature="e#9379#9385#0" expanded="true" />
+                <element signature="e#9538#9544#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="invest.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/invest/invest.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -50,31 +51,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="associate-program.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/associate-program/associate-program.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="shareholders.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="shareholders.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/shareholders/shareholders.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -83,42 +64,8 @@
       <file leaf-file-name="shareholders.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shareholders.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="35" column="42" lean-forward="true" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="invest.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/invest/invest.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="associate-program.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/associate-program.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="83" column="37" lean-forward="true" selection-start-line="83" selection-start-column="37" selection-end-line="83" selection-end-column="37" />
-              <folding>
-                <marker date="1511350034442" expanded="false" signature="14101:14107" ph=" " />
-                <marker date="1511350034442" expanded="false" signature="14264:14270" ph=" " />
-                <marker date="1511350034442" expanded="false" signature="14423:14429" ph=" " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="global.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/all/global.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="97" column="40" lean-forward="false" selection-start-line="97" selection-start-column="40" selection-end-line="97" selection-end-column="40" />
+            <state relative-caret-position="476">
+              <caret line="151" column="44" lean-forward="true" selection-start-line="94" selection-start-column="0" selection-end-line="151" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -139,10 +86,14 @@
     <findStrings>
       <find>col-sm-6 pt20-m pt40-d pb40-d</find>
       <find>invest</find>
+      <find>col-sm-8 col-sm-offset-2 mb40</find>
+      <find>shareholders</find>
     </findStrings>
     <replaceStrings>
       <replace>col-sm-6 col-sm-offset-1 pt20-m pt40-d pb40-d</replace>
       <replace>shareholders</replace>
+      <replace>col-sm-10 col-sm-offset-1 mb40</replace>
+      <replace>invest</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -175,8 +126,6 @@
         <option value="$PROJECT_DIR$/css/shareholders/shareholders-intro.css" />
         <option value="$PROJECT_DIR$/css/shareholders/shareholders-main.css" />
         <option value="$PROJECT_DIR$/css/invest/invest-main.css" />
-        <option value="$PROJECT_DIR$/css/invest/invest.css" />
-        <option value="$PROJECT_DIR$/invest.html" />
         <option value="$PROJECT_DIR$/css/index/index-intro.css" />
         <option value="$PROJECT_DIR$/css/index/index-invest.css" />
         <option value="$PROJECT_DIR$/css/index/index-about.css" />
@@ -184,6 +133,8 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/shareholders.html" />
         <option value="$PROJECT_DIR$/css/shareholders/shareholders.css" />
+        <option value="$PROJECT_DIR$/css/invest/invest.css" />
+        <option value="$PROJECT_DIR$/invest.html" />
       </list>
     </option>
   </component>
@@ -355,24 +306,24 @@
       <workItem from="1510828373835" duration="11237000" />
       <workItem from="1511199364669" duration="664000" />
       <workItem from="1511260055024" duration="1650000" />
-      <workItem from="1511342918300" duration="6237000" />
+      <workItem from="1511342918300" duration="7266000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28819000" />
+    <option name="totallyTimeSpent" value="29848000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="-4" width="1867" height="1084" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17461167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14568827" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4028213" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40184048" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -400,9 +351,9 @@
         <state relative-caret-position="1926">
           <caret line="107" column="53" lean-forward="false" selection-start-line="105" selection-start-column="20" selection-end-line="107" selection-end-column="53" />
           <folding>
-            <element signature="e#5737#5743#0" expanded="true" />
-            <element signature="e#5900#5906#0" expanded="true" />
-            <element signature="e#6059#6065#0" expanded="true" />
+            <element signature="e#9184#9190#0" expanded="true" />
+            <element signature="e#9379#9385#0" expanded="true" />
+            <element signature="e#9538#9544#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -456,9 +407,9 @@
         <state relative-caret-position="2574">
           <caret line="143" column="47" lean-forward="false" selection-start-line="143" selection-start-column="47" selection-end-line="143" selection-end-column="47" />
           <folding>
-            <element signature="e#5737#5743#0" expanded="true" />
-            <element signature="e#5900#5906#0" expanded="true" />
-            <element signature="e#6059#6065#0" expanded="true" />
+            <element signature="e#9184#9190#0" expanded="true" />
+            <element signature="e#9379#9385#0" expanded="true" />
+            <element signature="e#9538#9544#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -500,9 +451,9 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#5737#5743#0" expanded="true" />
-            <element signature="e#5900#5906#0" expanded="true" />
-            <element signature="e#6059#6065#0" expanded="true" />
+            <element signature="e#9184#9190#0" expanded="true" />
+            <element signature="e#9379#9385#0" expanded="true" />
+            <element signature="e#9538#9544#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -690,18 +641,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/invest.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding>
-            <element signature="e#5737#5743#0" expanded="true" />
-            <element signature="e#5900#5906#0" expanded="true" />
-            <element signature="e#6059#6065#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/index/index-intro.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -726,26 +665,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/index/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="890">
-          <caret line="111" column="1" lean-forward="false" selection-start-line="111" selection-start-column="1" selection-end-line="111" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/invest/invest.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -758,19 +681,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/index/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="890">
+          <caret line="111" column="1" lean-forward="false" selection-start-line="111" selection-start-column="1" selection-end-line="111" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/shareholders.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="35" column="42" lean-forward="true" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
+        <state relative-caret-position="476">
+          <caret line="151" column="44" lean-forward="true" selection-start-line="94" selection-start-column="0" selection-end-line="151" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/shareholders/shareholders.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="1" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/invest/invest.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/invest.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="98" column="28" lean-forward="false" selection-start-line="98" selection-start-column="28" selection-end-line="98" selection-end-column="28" />
+          <folding>
+            <element signature="e#9184#9190#0" expanded="true" />
+            <element signature="e#9379#9385#0" expanded="true" />
+            <element signature="e#9538#9544#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
