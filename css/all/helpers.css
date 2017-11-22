@@ -38,6 +38,17 @@
     word-break: keep-all;
 }
 
+@media (max-width: 768px) {
+    .text-center-m{
+        text-align: center;
+    }
+}
+@media (min-width: 768px) {
+    .text-center-d{
+        text-align: center;
+    }
+}
+
 /* FONT SIZES */
 .fs12 {
     font-size: 12px;
@@ -657,6 +668,10 @@
 }
 
 @media (max-width: 768px) {
+    .m0a-m {
+        margin: 0 auto;
+    }
+
     .m0-m {
         margin: 0;
     }
@@ -683,6 +698,10 @@
 }
 
 @media (min-width: 768px) {
+    .m0a-d {
+        margin: 0 auto;
+    }
+
     .m0-d {
         margin: 0;
     }
