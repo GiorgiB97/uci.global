@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b68678d1-f738-46d5-95e8-ccb1476e4ab5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/uci-coin/uci-coin.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uci-coin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/footer-pages/footer-pages.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/icos/icos.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icos.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index/index.css" afterPath="$PROJECT_DIR$/css/index/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/invest/invest.css" afterPath="$PROJECT_DIR$/css/invest/invest.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/shareholders/shareholders.css" afterPath="$PROJECT_DIR$/css/shareholders/shareholders.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/invest.html" afterPath="$PROJECT_DIR$/invest.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shareholders.html" afterPath="$PROJECT_DIR$/shareholders.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,21 +19,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="uci-coin.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/uci-coin/uci-coin.css">
+      <file leaf-file-name="icos.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/icos/icos.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="242">
+              <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="uci-coin.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/uci-coin.html">
+      <file leaf-file-name="icos.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/icos.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="118" column="18" lean-forward="true" selection-start-line="118" selection-start-column="18" selection-end-line="118" selection-end-column="18" />
+            <state relative-caret-position="512">
+              <caret line="217" column="12" lean-forward="true" selection-start-line="217" selection-start-column="12" selection-end-line="217" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer-pages.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/footer-pages/footer-pages.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="uci-coin.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/uci-coin/uci-coin.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -62,6 +77,7 @@
       <find>col-sm-10 col-sm-offset-1</find>
       <find>shareholders</find>
       <find>invest</find>
+      <find>uci-coin</find>
     </findStrings>
     <replaceStrings>
       <replace>col-sm-6 col-sm-offset-1 pt20-m pt40-d pb40-d</replace>
@@ -70,6 +86,7 @@
       <replace>col-sm-12</replace>
       <replace>invest</replace>
       <replace>uci-coin</replace>
+      <replace>icos</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -113,6 +130,9 @@
         <option value="$PROJECT_DIR$/css/shareholders/shareholders.css" />
         <option value="$PROJECT_DIR$/shareholders.html" />
         <option value="$PROJECT_DIR$/uci-coin.html" />
+        <option value="$PROJECT_DIR$/css/icos/icos.css" />
+        <option value="$PROJECT_DIR$/icos.html" />
+        <option value="$PROJECT_DIR$/css/footer-pages/footer-pages.css" />
       </list>
     </option>
   </component>
@@ -123,7 +143,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1" />
+    <option name="x" value="83" />
     <option name="y" value="-4" />
     <option name="width" value="1313" />
     <option name="height" value="772" />
@@ -169,6 +189,12 @@
               <item name="uci.global-new" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
               <item name="associate-program" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uci.global-new" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uci.global-new" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="icos" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="uci.global-new" type="b2602c69:ProjectViewProjectNode" />
@@ -290,18 +316,17 @@
       <workItem from="1510828373835" duration="11237000" />
       <workItem from="1511199364669" duration="664000" />
       <workItem from="1511260055024" duration="1650000" />
-      <workItem from="1511342918300" duration="8520000" />
+      <workItem from="1511342918300" duration="10825000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31102000" />
+    <option name="totallyTimeSpent" value="33407000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="-4" width="1867" height="1084" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14568827" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14568827" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -701,18 +726,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/uci-coin/uci-coin.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/uci-coin.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="118" column="18" lean-forward="true" selection-start-line="118" selection-start-column="18" selection-end-line="118" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/uci-coin/uci-coin.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/icos/icos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="217" column="12" lean-forward="true" selection-start-line="217" selection-start-column="12" selection-end-line="217" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/footer-pages/footer-pages.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
