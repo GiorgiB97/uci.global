@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b68678d1-f738-46d5-95e8-ccb1476e4ab5" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/uci-coin/uci-coin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uci-coin.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index/index.css" afterPath="$PROJECT_DIR$/css/index/index.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/invest/invest.css" afterPath="$PROJECT_DIR$/css/invest/invest.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/shareholders/shareholders.css" afterPath="$PROJECT_DIR$/css/shareholders/shareholders.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/invest.html" afterPath="$PROJECT_DIR$/invest.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shareholders.html" afterPath="$PROJECT_DIR$/shareholders.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,55 +24,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="invest.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/invest.html">
+      <file leaf-file-name="uci-coin.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/uci-coin/uci-coin.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="35">
-              <caret line="98" column="28" lean-forward="false" selection-start-line="98" selection-start-column="28" selection-end-line="98" selection-end-column="28" />
-              <folding>
-                <element signature="e#9184#9190#0" expanded="true" />
-                <element signature="e#9379#9385#0" expanded="true" />
-                <element signature="e#9538#9544#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="invest.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/invest/invest.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            <state relative-caret-position="180">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/index/index.css">
+      <file leaf-file-name="uci-coin.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/uci-coin.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="890">
-              <caret line="111" column="1" lean-forward="false" selection-start-line="111" selection-start-column="1" selection-end-line="111" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="shareholders.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/shareholders/shareholders.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="shareholders.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shareholders.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="151" column="44" lean-forward="true" selection-start-line="94" selection-start-column="0" selection-end-line="151" selection-end-column="44" />
+            <state relative-caret-position="308">
+              <caret line="118" column="18" lean-forward="true" selection-start-line="118" selection-start-column="18" selection-end-line="118" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -85,15 +58,18 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>col-sm-6 pt20-m pt40-d pb40-d</find>
-      <find>invest</find>
       <find>col-sm-8 col-sm-offset-2 mb40</find>
+      <find>col-sm-10 col-sm-offset-1</find>
       <find>shareholders</find>
+      <find>invest</find>
     </findStrings>
     <replaceStrings>
       <replace>col-sm-6 col-sm-offset-1 pt20-m pt40-d pb40-d</replace>
       <replace>shareholders</replace>
       <replace>col-sm-10 col-sm-offset-1 mb40</replace>
+      <replace>col-sm-12</replace>
       <replace>invest</replace>
+      <replace>uci-coin</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -129,12 +105,14 @@
         <option value="$PROJECT_DIR$/css/index/index-intro.css" />
         <option value="$PROJECT_DIR$/css/index/index-invest.css" />
         <option value="$PROJECT_DIR$/css/index/index-about.css" />
-        <option value="$PROJECT_DIR$/css/index/index.css" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/shareholders.html" />
-        <option value="$PROJECT_DIR$/css/shareholders/shareholders.css" />
-        <option value="$PROJECT_DIR$/css/invest/invest.css" />
         <option value="$PROJECT_DIR$/invest.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/uci-coin/uci-coin.css" />
+        <option value="$PROJECT_DIR$/css/index/index.css" />
+        <option value="$PROJECT_DIR$/css/invest/invest.css" />
+        <option value="$PROJECT_DIR$/css/shareholders/shareholders.css" />
+        <option value="$PROJECT_DIR$/shareholders.html" />
+        <option value="$PROJECT_DIR$/uci-coin.html" />
       </list>
     </option>
   </component>
@@ -209,6 +187,12 @@
               <item name="uci.global-new" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
               <item name="shareholders" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uci.global-new" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uci.global-new" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="uci-coin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="uci.global-new" type="b2602c69:ProjectViewProjectNode" />
@@ -306,12 +290,12 @@
       <workItem from="1510828373835" duration="11237000" />
       <workItem from="1511199364669" duration="664000" />
       <workItem from="1511260055024" duration="1650000" />
-      <workItem from="1511342918300" duration="7266000" />
+      <workItem from="1511342918300" duration="8520000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29848000" />
+    <option name="totallyTimeSpent" value="31102000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="-4" width="1867" height="1084" extended-state="6" />
@@ -351,9 +335,9 @@
         <state relative-caret-position="1926">
           <caret line="107" column="53" lean-forward="false" selection-start-line="105" selection-start-column="20" selection-end-line="107" selection-end-column="53" />
           <folding>
-            <element signature="e#9184#9190#0" expanded="true" />
-            <element signature="e#9379#9385#0" expanded="true" />
-            <element signature="e#9538#9544#0" expanded="true" />
+            <element signature="e#9212#9218#0" expanded="true" />
+            <element signature="e#9407#9413#0" expanded="true" />
+            <element signature="e#9566#9572#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -394,11 +378,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1908">
           <caret line="106" column="58" lean-forward="false" selection-start-line="106" selection-start-column="58" selection-end-line="106" selection-end-column="58" />
-          <folding>
-            <marker date="1511350034442" expanded="false" signature="14101:14107" ph=" " />
-            <marker date="1511350034442" expanded="false" signature="14264:14270" ph=" " />
-            <marker date="1511350034442" expanded="false" signature="14423:14429" ph=" " />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -407,9 +387,9 @@
         <state relative-caret-position="2574">
           <caret line="143" column="47" lean-forward="false" selection-start-line="143" selection-start-column="47" selection-end-line="143" selection-end-column="47" />
           <folding>
-            <element signature="e#9184#9190#0" expanded="true" />
-            <element signature="e#9379#9385#0" expanded="true" />
-            <element signature="e#9538#9544#0" expanded="true" />
+            <element signature="e#9212#9218#0" expanded="true" />
+            <element signature="e#9407#9413#0" expanded="true" />
+            <element signature="e#9566#9572#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -451,9 +431,9 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#9184#9190#0" expanded="true" />
-            <element signature="e#9379#9385#0" expanded="true" />
-            <element signature="e#9538#9544#0" expanded="true" />
+            <element signature="e#9212#9218#0" expanded="true" />
+            <element signature="e#9407#9413#0" expanded="true" />
+            <element signature="e#9566#9572#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -597,18 +577,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/associate-program.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="83" column="37" lean-forward="true" selection-start-line="83" selection-start-column="37" selection-end-line="83" selection-end-column="37" />
-          <folding>
-            <marker date="1511350034442" expanded="false" signature="14101:14107" ph=" " />
-            <marker date="1511350034442" expanded="false" signature="14264:14270" ph=" " />
-            <marker date="1511350034442" expanded="false" signature="14423:14429" ph=" " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/shareholders/shareholders-intro.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -665,63 +633,87 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/associate-program.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="95" column="43" lean-forward="false" selection-start-line="95" selection-start-column="29" selection-end-line="95" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/associate-program/associate-program.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/index/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="890">
-          <caret line="111" column="1" lean-forward="false" selection-start-line="111" selection-start-column="1" selection-end-line="111" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shareholders.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="151" column="44" lean-forward="true" selection-start-line="94" selection-start-column="0" selection-end-line="151" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/shareholders/shareholders.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="1" />
+        <state relative-caret-position="594">
+          <caret line="129" column="18" lean-forward="true" selection-start-line="129" selection-start-column="18" selection-end-line="129" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/invest/invest.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        <state relative-caret-position="180">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/shareholders/shareholders.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/associate-program/associate-program.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shareholders.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="95" column="30" lean-forward="false" selection-start-line="95" selection-start-column="30" selection-end-line="95" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/invest.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="98" column="28" lean-forward="false" selection-start-line="98" selection-start-column="28" selection-end-line="98" selection-end-column="28" />
+        <state relative-caret-position="116">
+          <caret line="96" column="23" lean-forward="false" selection-start-line="96" selection-start-column="23" selection-end-line="96" selection-end-column="51" />
           <folding>
-            <element signature="e#9184#9190#0" expanded="true" />
-            <element signature="e#9379#9385#0" expanded="true" />
-            <element signature="e#9538#9544#0" expanded="true" />
+            <element signature="e#9212#9218#0" expanded="true" />
+            <element signature="e#9407#9413#0" expanded="true" />
+            <element signature="e#9566#9572#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/uci-coin/uci-coin.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uci-coin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="118" column="18" lean-forward="true" selection-start-line="118" selection-start-column="18" selection-end-line="118" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
