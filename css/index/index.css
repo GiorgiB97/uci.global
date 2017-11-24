@@ -1,13 +1,7 @@
 .intro {
-    height: calc(100vh - 110px);
     background-color: rgba(53, 69, 156, 0.6);
-    max-height: 700px;
-}
-
-@media (max-width: 768px) {
-    .intro {
-        height: calc(100vh - 90px);
-    }
+    min-height: 600px;
+    padding-bottom: 30px;
 }
 
 .intro .wrapper {
