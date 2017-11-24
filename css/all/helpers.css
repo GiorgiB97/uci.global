@@ -2,7 +2,9 @@
 .bg-white {
     background-color: white;
 }
-
+.bg-gray{
+    background-color: #cecece;
+}
 .text-white {
     color: white;
 }

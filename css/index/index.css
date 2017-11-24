@@ -73,14 +73,52 @@
     min-width: 150px;
 }
 
-
-
-
-.about {
-    background-color: rgba(255,255,255,0.7);
-    padding: 75px 0;
+.about .about-left {
+    padding-top: 40px;
+    padding-bottom: 0;
+    margin:0 15px;
+    background-color: #dcdcdc;
+}
+.about .about-left h1{
+    margin-bottom: 0;
+    padding-bottom: 30px;
 }
 
+.about .about-right {
+    padding-top: 30px;
+    padding-bottom: 60px;
+    margin:0 15px;
+    background-color: white;
+}
+@media (min-width: 768px) {
+    .about > .row {
+        display: flex;
+    }
+
+    .about .about-left {
+        padding: 75px 0;
+        padding-left: 30px;
+        padding-right: 30px;
+        flex: 1;
+        margin:0;
+    }
+
+    .about .about-right {
+        padding: 75px 0;
+        margin:0;
+    }
+}
+
+@media (min-width: 991px){
+    .about .about-left{
+        padding-left: 80px !important;
+    }
+}
+@media (min-width: 1200px){
+    .about .about-left{
+        padding-left: 120px !important;
+    }
+}
 .about .about-header {
     font-weight: bold;
     text-align: right;
