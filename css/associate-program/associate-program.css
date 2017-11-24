@@ -6,6 +6,10 @@
     margin: 0;
 }
 
+.associate-program{
+    background-color: #eeeeee;
+}
+
 @media (min-width: 768px){
     .associate-program .row-container{
         display: flex;

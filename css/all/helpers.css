@@ -47,6 +47,9 @@
     .text-right-m{
         text-align: right;
     }
+    .text-justified-m{
+        text-align: justify;
+    }
 }
 @media (min-width: 768px) {
     .text-center-d{
@@ -54,6 +57,9 @@
     }
     .text-right-d{
         text-align: right;
+    }
+    .text-justified-d{
+        text-align: justify;
     }
 }
 

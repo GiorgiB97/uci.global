@@ -6,6 +6,9 @@
     margin: 0;
 }
 
+.portfolio-main{
+    background-color: #eeeeee;
+}
 
 .portfolio-main .card{
     background-color: white;

@@ -1,50 +1,38 @@
-.icos-intro{
+.portfolio-pages-intro{
     background-color: rgba(53, 69, 156, 0.8);
     padding:61px 0;
 }
-.icos-intro h1{
+.portfolio-pages-intro h1{
     margin: 0;
 }
 
-.icos-main{
+.portfolio-pages-main{
     background-color: #eeeeee;
 }
-
-.icos-main .card{
-    background-color: white;
-    padding:20px;
-    border-radius:20px;
-    height:503px;
-    margin-bottom: 30px;
-}
-.icos-main .card .header img{
-    max-height:200px;
-}
-.icos-main .card .header{
-    height:273px;
+.portfolio-pages-main .header{
     font-size: 22px;
     line-height: 24px;
     font-weight: bold;
     color: #35459c;
 }
-.icos-main .header .card-splitter{
+.portfolio-pages-main .header .card-splitter{
     background-color: #efc354;
     width:27px;
     height:2px;
     margin:5px auto 20px 0;
     border-top:0;
 }
-.icos-main .body p{
+.portfolio-pages-main .body p{
     font-size: 18px;
     line-height: 20px;
 }
-.icos-main .body ul{
+.portfolio-pages-main .body ul{
     padding-left:15px;
 }
-.icos-main .body ul li{
+.portfolio-pages-main .body ul li{
     margin-bottom: 8px;
 }
-.icos-main .body ul li span{
+.portfolio-pages-main .body ul li span{
     color: #35459c;
     font-size: 18px;
     line-height: 20px;
