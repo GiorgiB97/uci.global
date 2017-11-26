@@ -15,7 +15,37 @@
 .header .navbar-toggle span{
     background-color: #efc354;
 }
+@media (min-width: 768px){
+    .header .navbar-collapse li a:before{
+        content: "";
+        width:0%;
+        margin:0 auto;
+        height:5px;
+        background-color: transparent;
+        position: absolute;
+        top:0;
+        left:0;
+        right:0;
+    }
 
+    .header .navbar-collapse li:hover a:before{
+        content: "";
+        width:100%;
+        background-color: #efc354;
+        transition: 0.4s;
+    }
+    .header .navbar-collapse li.active a:before{
+        content: "";
+        width:100%;
+        margin:0 auto;
+        height:5px;
+        background-color: #efc354;
+        position: absolute;
+        top:0;
+        left:0;
+        right:0;
+    }
+}
 .header .navbar-collapse li a{
     font-size:16px;
 }
@@ -23,10 +53,12 @@
 .header .navbar-collapse li a:hover{
     background-color: transparent;
     color: #efc354;
+    transition: 0.4s;
 }
 .header .navbar-collapse li.active a{
     background-color: transparent;
     color: #efc354;
+    font-weight:bold;
 }
 
 @media (min-width: 991px) {
