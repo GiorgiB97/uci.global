@@ -10,6 +10,10 @@
 .invest-main{
     background-color: #eeeeee;
 }
+.invest-main .wrapped{
+    border-radius:20px;
+    background-color: white;
+}
 .invest-main .header{
     font-size: 22px;
     line-height: 24px;
