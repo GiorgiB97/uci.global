@@ -29,7 +29,7 @@ body b {
 }
 
 a {
-    color: #35459c;
+    color: #4367b2;
     text-decoration: none !important;
 }
 
@@ -87,13 +87,13 @@ a:hover {
 }
 
 .text-brand-primary{
-    color:#35459c;
+    color:#4367b2;
 }
 .text-brand-secondary{
     color:#efc354;
 }
 .bg-brand-primary{
-    background-color: #35459c;
+    background-color: #4367b2;
 }
 .bg-brand-secondary{
     background-color: #efc354;

@@ -1,5 +1,5 @@
 .intro {
-    background-color: rgba(53, 69, 156, 0.4);
+    background-color: rgba(67, 103, 178, 0.4);
     min-height: 600px;
 }
 
@@ -11,7 +11,7 @@
 }
 
 .intro .wrapper {
-    background-color: rgba(53, 69, 156, 0.75);
+    background-color: rgba(67, 103, 178, 0.75);
     padding: 100px 87px;
     padding-left: 600px;
     margin-left: -600px;
@@ -33,7 +33,7 @@
 
 
 .invest{
-    background-color: #35459c;
+    background-color: #4367b2;
     padding:75px 0 65px 0;
 }
 .invest .wrapper{
@@ -56,7 +56,7 @@
     font-size: 22px;
     line-height: 24px;
     font-weight: bold;
-    color: #35459c;
+    color: #4367b2;
 }
 .invest .wrapper .card-splitter{
     background-color: #efc354;
@@ -74,11 +74,13 @@
     margin-left:25px;
 }
 .invest .wrapper .body ul li span{
-    color: #35459c;
+    color: #4367b2;
     font-size: 16px;
 }
 .invest #invest-btn{
-    min-width: 150px;
+    min-width: 250px;
+    min-height: 65px;
+    line-height: 40px;
 }
 
 .about .about-left {
@@ -151,6 +153,6 @@
 }
 
 .about .about-list li span {
-    color: #35459c;
+    color: #4367b2;
     font-weight: 100;
 }

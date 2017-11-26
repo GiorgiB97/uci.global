@@ -1,5 +1,5 @@
 .uci-coin-intro{
-    background-color: rgba(53, 69, 156, 0.8);
+    background-color: rgba(67, 103, 178, 0.8);
     padding:61px 0;
 }
 .uci-coin-intro h1{
@@ -14,7 +14,7 @@
     font-size: 22px;
     line-height: 24px;
     font-weight: bold;
-    color: #35459c;
+    color: #4367b2;
 }
 .uci-coin-main .header .card-splitter{
     background-color: #efc354;
@@ -34,7 +34,7 @@
     margin-bottom: 8px;
 }
 .uci-coin-main .body ul li span{
-    color: #35459c;
+    color: #4367b2;
     font-size: 18px;
     line-height: 20px;
 }
