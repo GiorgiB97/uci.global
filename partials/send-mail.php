@@ -28,7 +28,7 @@ if ($response != null && $response->success) {
     $subject = $post['subject'];
     $message = $post['message'];
     $email = $post['email'];
-    $from = 'From: ' . $email . "\r\n";
+    $from = 'From: ' .$name . ' <'. $email . ">\r\n";
     mail('admin@uci.global', $subject, $message, $from);
     header("Location: " . $currentUrl . "?success=true");
 }else{
