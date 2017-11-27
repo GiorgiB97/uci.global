@@ -67,7 +67,7 @@ $currentPage = basename($_SERVER['REQUEST_URI'], ".php");
                                 <input type='hidden' name='url' value='https://uci.global/<?= $currentPage ?>'/>
                                 <input required type="text" title="name" name="name" aria-labelledby="Name"
                                        placeholder="Name"><br>
-                                <input required type="text" title="email" name="email" aria-labelledby="E-mail"
+                                <input required type="email" title="email" name="email" aria-labelledby="E-mail"
                                        placeholder="E-mail"><br>
                                 <input required type="text" title="subject" name="subject" aria-labelledby="Subject"
                                        placeholder="Subject"><br>
