@@ -49,35 +49,7 @@
 </head>
 <body data-landing="uci">
 <!--{{{ HEADER }}}-->
-<nav class="navbar header">
-    <div class="container">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
-                    data-target="#navbar-collapse-1">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" href="#"><img src="img/all/logo.png" alt="Pindex"></a>
-        </div>
-
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="navbar-collapse-1">
-            <ul class="nav navbar-nav navbar-right">
-                <li><a href="https://uci.global">Home</a></li>
-                <li><a href="https://uci.global/invest">Invest</a></li>
-                <li class="active"><a href="">ShareHolders</a></li>
-                <li><a href="https://uci.global/portfolio">Portfolio</a></li>
-                <li><a href="https://uci.global/uci-coin">UCI Coin</a></li>
-                <li><a href="https://uci.global/icos">ICOs</a></li>
-                <li><a href="https://uci.global/news">News</a></li>
-                <li><a href="https://uci.global/associate-program">Associate Program</a></li>
-            </ul>
-        </div>
-    </div>
-</nav>
+<?php include 'partials/header.php' ?>
 <!--{{{ END HEADER }}}-->
 
 <!--{{{ SHAREHOLDERS-INTRO SECTION }}}-->
@@ -165,62 +137,7 @@
 <!--{{{ END SHAREHOLDERS-MAIN SECTION }}}-->
 
 <!--{{{ FOOTER SECTION }}}-->
-<div class="footer">
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-3 mb40-m">
-                <div class="header"><span>LEGALITIES</span>
-                    <hr class="card-splitter">
-                </div>
-                <div class="body">
-                    <ul class="list">
-                        <li><a href="https://uci.global/privacy-policy">Privacy Policy</a></li>
-                        <li><a href="https://uci.global/terms-and-conditions">Terms & Conditions</a></li>
-                        <li><a href="https://uci.global/about-us">About us</a></li>
-                        <li><a href="https://uci.global/faq">FAQ</a></li>
-                        <li><a href="https://uci.global/404">Contact us</a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="col-sm-3 mb40-m">
-                <div class="header"><span>CONTACT</span>
-                    <hr class="card-splitter">
-                </div>
-                <div class="body">
-                    <ul class="list text-brand-primary">
-                        <li><p class="brand-name">United Capital Investments</p></li>
-                        <li>
-                            <a href="mailto:admin@uci.global"><i class="fa fa-envelope text-brand-secondary"></i>&nbsp;
-                                admin@uci.global</a>
-                        </li>
-                        <li>
-                            <i class="fa fa-phone text-brand-secondary"></i>&nbsp; +995 557 669 417
-                        </li>
-                        <li>
-                            <i class="fa fa-phone text-brand-secondary"></i>&nbsp; +995 599 240 325
-                        </li>
-                    </ul>
-                </div>
-            </div>
-            <div class="col-sm-6 mb40-m">
-                <div class="form">
-                    <div class="row">
-                        <div class="col-sm-6 mb20-m">
-                            <input type="text" title="name" aria-labelledby="Name" placeholder="Name"><br>
-                            <input type="text" title="email" aria-labelledby="E-mail" placeholder="E-mail"><br>
-                            <input type="text" title="subject" aria-labelledby="Subject" placeholder="Subject"><br>
-                        </div>
-                        <div class="col-sm-6">
-                            <textarea title="subject" aria-labelledby="Message" placeholder="Message"></textarea><br>
-                            <button onsubmit="alert('submit')" class="btn btn-brand-transparent pull-right">Send
-                            </button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+<?php include 'partials/footer.php' ?>
 <!--{{{ END FOOTER SECTION }}}-->
 </body>
 </html>
