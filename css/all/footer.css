@@ -31,6 +31,28 @@
     margin-bottom: 5px;
     width: 100%;
 }
+.footer .form .g-recaptcha{
+    transform:scale(0.87);
+    transform-origin:0 0;
+}
+@media (max-width: 1200px){
+    .footer .form .g-recaptcha{
+        transform:scale(0.7);
+        transform-origin:0 0;
+    }
+}
+@media (max-width: 991px){
+    .footer .form .g-recaptcha{
+        transform:scale(0.52);
+        transform-origin:0 0;
+    }
+}
+@media (max-width: 768px){
+    .footer .form .g-recaptcha{
+        transform:scale(1);
+        transform-origin:0 0;
+    }
+}
 .footer .form textarea{
     padding:10px 15px;
     background-color: #e2e2e2;
@@ -43,4 +65,9 @@
     min-width: 130px;
     max-height: 40px;
     padding:7.5px;
+    margin-top:10px;
+}
+.footer .form p{
+    padding: 10px 20px;
+    border-radius: 10px;
 }

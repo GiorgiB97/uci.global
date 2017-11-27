@@ -6,17 +6,7 @@
  * Time: 11:50 AM
  */
 
-$post = $_POST;
-
-
-if(count($post) > 2){
-    $name = $post['name'];
-    $subject = $post['subject'];
-    $message = $post['message'];
-    $email = $post['email'];
-    $from = 'From: ' . $email . "\r\n";
-    mail('admin@uci.global',$subject,$message,$from);
-}
+$currentPage = basename($_SERVER['REQUEST_URI'], ".php");
 
 ?>
 
@@ -60,15 +50,35 @@ if(count($post) > 2){
             <div class="col-sm-6 mb40-m">
                 <div class="form">
                     <div class="row">
-                        <form action="invest.php" method="post">
+                        <?php if (isset($_GET['success'])&&$_GET['success'] === 'false'): ?>
+                            <div class="col-sm-12">
+                                <p class="bg-danger text-danger">There was an error while sending your message ! <br>
+                                    Make sure all information is correct or please try again later</p>
+                            </div>
+                        <?php elseif(isset($_GET['success'])&&$_GET['success'] === 'true'): ?>
+                            <div class="col-sm-12">
+                                <p class="bg-success text-brand-primary">Your message has been successfully sent! <br>
+                                    Please give us at least 24 hours to review your message. <br>
+                                    Thank you !</p>
+                            </div>
+                        <?php endif; ?>
+                        <form action="partials/send-mail" method="post">
                             <div class="col-sm-6 mb20-m">
-                                <input required type="text" title="name" name="name" aria-labelledby="Name" placeholder="Name"><br>
-                                <input required type="text" title="email" name="email" aria-labelledby="E-mail" placeholder="E-mail"><br>
-                                <input required type="text" title="subject" name="subject" aria-labelledby="Subject" placeholder="Subject"><br>
+                                <input type='hidden' name='url' value='https://uci.global/<?= $currentPage ?>'/>
+                                <input required type="text" title="name" name="name" aria-labelledby="Name"
+                                       placeholder="Name"><br>
+                                <input required type="text" title="email" name="email" aria-labelledby="E-mail"
+                                       placeholder="E-mail"><br>
+                                <input required type="text" title="subject" name="subject" aria-labelledby="Subject"
+                                       placeholder="Subject"><br>
                             </div>
                             <div class="col-sm-6">
-                                <textarea required title="subject" name="message" aria-labelledby="Message" placeholder="Message"></textarea><br>
-                                <button class="btn btn-brand-transparent pull-right" type="submit">Send</button>
+                                    <textarea required title="subject" name="message" aria-labelledby="Message"
+                                              placeholder="Message"></textarea><br>
+                                <div class="g-recaptcha" data-sitekey="6Lc7kjoUAAAAABGIuK67emjWoVhClGuc5FzU148-"></div>
+                                <button class="btn btn-brand-transparent pull-right submitButton" type="submit">
+                                    Send
+                                </button>
                             </div>
                         </form>
                     </div>
