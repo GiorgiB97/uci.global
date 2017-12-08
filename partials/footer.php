@@ -26,6 +26,23 @@ $currentPage = basename($_SERVER['REQUEST_URI'], ".php");
                         <li><a href="https://uci.global/404">Contact us</a></li>
                     </ul>
                 </div>
+                <br>
+                <div class="header"><span>SOCIAL MEDIA</span>
+                    <hr class="card-splitter">
+                </div>
+                <div class="body">
+                    <ul class="list list-social list-inline" style="font-size: 32px;">
+                        <li><a href="https://www.facebook.com/uciglobal" target="_blank">
+                                <i class="fa fa-facebook"></i></a>&nbsp;
+                        </li>
+                        <li><a href="https://www.twitter.com/uciglobal" target="_blank">
+                                <i class="fa fa-twitter"></i></a>&nbsp;
+                        </li>
+                        <li><a href="https://www.t.me/pebex" target="_blank">
+                                <i class="fa fa-telegram"></i></a>&nbsp;
+                        </li>
+                    </ul>
+                </div>
             </div>
             <div class="col-sm-3 mb40-m">
                 <div class="header"><span>CONTACT</span>

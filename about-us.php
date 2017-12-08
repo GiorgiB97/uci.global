@@ -37,7 +37,7 @@
                     markets and new technologies.</p>
                 <p>The registered office address: Horsford business center, Longpoint Road, Charlestown, Nevis.</p>
                 <p>Company registration number: C 48585</p>
-                <p>Operations Office: &nbsp;Tbilisi 0160, Saburtalo, Bidzina Qvernadze 8,Republic Of Georgia.</p>
+                <p>Operations Office: &nbsp;Batumi 0162, New Boulevard, Jikia 5, Republic Of Georgia.</p>
                 <p>Telephone: +995 557 669 417 / +995 599 240 325</p>
                 <p>E-mail: <a href="mailto:admin@uci.global">admin@uci.global</a></p>
             </div>
