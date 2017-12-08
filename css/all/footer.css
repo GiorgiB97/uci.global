@@ -71,6 +71,9 @@
     padding: 10px 20px;
     border-radius: 10px;
 }
+.footer .list-inline.list-social li{
+    padding-left: 0;
+}
 .footer .list-social li a i{
     color: #efc354 !important;
 }
